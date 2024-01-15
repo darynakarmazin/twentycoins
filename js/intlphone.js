@@ -601,6 +601,7 @@
                       role: "combobox",
                       "aria-owns": "iti-".concat(this.id, "__country-listbox"),
                       "aria-expanded": "false",
+                      "aria-label": "flag",
                     },
                     this.k
                   )),
